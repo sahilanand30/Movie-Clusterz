@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Movie-Clusterz/static/css/main.09f47c42.css",
+    "main.js": "/Movie-Clusterz/static/js/main.fa8240fc.js",
+    "index.html": "/Movie-Clusterz/index.html",
+    "static/media/search.svg": "/Movie-Clusterz/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.09f47c42.css.map": "/Movie-Clusterz/static/css/main.09f47c42.css.map",
+    "main.fa8240fc.js.map": "/Movie-Clusterz/static/js/main.fa8240fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09f47c42.css",
+    "static/js/main.fa8240fc.js"
+  ]
+}
