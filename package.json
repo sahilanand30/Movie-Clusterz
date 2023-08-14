@@ -1,6 +1,5 @@
 {
-  "homepage": "https://sahilanand30.github.io/Movie-Clusterz",
-  "name": "Movie-Clusterz",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
